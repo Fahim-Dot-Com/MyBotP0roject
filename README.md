@@ -1,5 +1,5 @@
 # MyBotP0roject
-# Friendly Chat Bot 🤖
+A Friendly Chat Bot 🤖
 
 This is a simple Python-based interactive chatbot that asks the user for their name, age, and favorite color. It responds in a friendly, conversational way.
 
