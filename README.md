@@ -13,6 +13,14 @@ This is a simple Python-based interactive chatbot that asks the user for their n
 
 ![Screenshot_20250610_210535_Mimo](https://github.com/user-attachments/assets/2f435726-ec91-4f4c-8f08-03b76b7c6674)
 
+## 🔨 Future additions
+-More questions 
+-Less linearity 
+-More personality
+
+## 🍿 Credits 
+https://github.com/Fahim-Dot-Com/MyBotP0roject
+
 ## 📜 Example Interaction
 
 ```bash
@@ -22,4 +30,3 @@ How old are you? 20
 You are 17 years older than me. I'm only 3 years old!
 What's your favourite color? Blue
 Oh, Blue is a beautiful color!
-
